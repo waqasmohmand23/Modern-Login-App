@@ -25,7 +25,9 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
 
-  
+    ```bash
+    https://github.com/waqasmohmand23/Modern-Login-App.git
+    ```
 
 2.  **Navigate to the project directory:**
 
